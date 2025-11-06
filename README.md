@@ -79,7 +79,7 @@ Open [http://localhost:3000](http://localhost:3000) to see your application runn
 - **📝 Documentation** - Auto-generate comprehensive documentation
 - **🚀 Optimization** - Performance improvements and best practices
 
-Ready to build something amazing? Start chatting with Z.ai at [chat.z.ai](https://chat.z.ai) and experience the future of AI-powered development!
+Ready to build something amazing? 
 
 ## 📁 Project Structure
 
