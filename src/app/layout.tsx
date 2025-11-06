@@ -17,15 +17,15 @@ export const metadata: Metadata = {
   title: "TechCorp",
   description: "Modern Next.js scaffold optimized for AI-powered development. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
   keywords: ["Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  // authors: [{ name: "Z.ai Team" }],
+  authors: [{ name: "Z.ai Team" }],
   icons: {
     icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
   },
   openGraph: {
-    // title: "Z.ai Code Scaffold",
+    title: "Z.ai Code Scaffold",
     description: "AI-powered development with modern React stack",
-    // url: "https://chat.z.ai",
-    // siteName: "Z.ai",
+    url: "https://chat.z.ai",
+    siteName: "Z.ai",
     type: "website",
   },
   twitter: {
